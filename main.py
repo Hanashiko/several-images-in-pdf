@@ -1,6 +1,6 @@
 import img2pdf, os
 
-path = "Y:\\переклади\\свинарник\\3\\оригінал"
+path = ""
 images_format = ".jpg"
 result_file_name = "result.pdf"
 
